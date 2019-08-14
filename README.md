@@ -1,68 +1,71 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  Componente de Carousel animado
+  <br>
+  <br>
+</h1>
 
-## Available Scripts
+<h4 align="center">Criei esse componente com o objetivo de treinar a criação de componentes em react.</h4>
 
-In the project directory, you can run:
 
-### `npm start`
+<p align="center">
+  <a href="#Introdução">Introdução</a> •
+  <a href="#Pré-requisitos">Pré requisitos</a> •
+  <a href="#Rodando-o-projeto">Rodando o Projeto</a> •
+  <a href="#Deployment">Deployment</a> •
+  <a href="#Built-With">Built With</a> •
+  <a href="#Autor">Autor</a> •
+  <a href="#Considerações-finais">Considerações finais</a>
+</p>
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+## Introdução
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esse componente foi criando com dois objetivos, treinar minhas skills para a criação de componentes e entender como se comporta o ecosistema do React em conjunto com técnicas de CSS Transition 
 
-### `npm run build`
+### Pré requisitos
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Será necessário a instação do Node e Github em sua maquina.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+- * [Node](https://nodejs.org/en/) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- * [Github](https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop) 
 
-### `npm run eject`
+### Rodando o projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Esse tópico é para caso queira rodar o projeto na sua maquina e ter acesso ao core do projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Após a instação do node e github vamos precisar rodar alguns comandos no seu terminal de comando:
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+git clone https://github.com/RafaelMouraFrontend/CarouselAnimationReact.git
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Pronto agora com esse comando acima você clonou a pasta e tem todo acesso ao código do projeto, agora vamos rodar no terminal mais alguns comandos para fazer o game funcionar na sua maquina:
+```
+cd CarouselAnimationReact
+```
+```
+yarn install
+```
+```
+yarn start
+```
 
-## Learn More
+Acesse no seu navegador de preferencia
+```
+http://localhost:3000/
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Ou se preferir entre no link online:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Built With
+* Html
+* Node-sass
+* JS
+* [React](hhttps://reactjs.org/) 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Autor
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* **Rafael Moura** - [Linkedin](https://www.linkedin.com/in/rafaelmouradev/)
