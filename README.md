@@ -1,5 +1,6 @@
 <h1 align="center">
   Componente de Carousel animado
+  <hr>
   <br>
   <br>
 </h1>
@@ -14,7 +15,6 @@
   <a href="#Deployment">Deployment</a> •
   <a href="#Built-With">Built With</a> •
   <a href="#Autor">Autor</a> •
-  <a href="#Considerações-finais">Considerações finais</a>
 </p>
 
 
