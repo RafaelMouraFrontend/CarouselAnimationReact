@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 const Card = ({property}) => {
     const {index, picture, city, address, bedrooms, bathrooms, carSpaces} = property;
@@ -20,10 +19,6 @@ const Card = ({property}) => {
             </div>
         </div>
     )
-}
-
-Card.propTypes = {
-    property: PropTypes.object.isRequired
 }
 
 export default Card;
