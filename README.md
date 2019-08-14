@@ -1,7 +1,7 @@
 <h1 align="center">
   Componente de Carousel animado
   <hr>
-  <a href="https://carousselreact.netlify.com/"><img src="https://imagizer.imageshack.com/img923/604/BzsXH0.png" alt="Carousel Image" width="400"></a>
+  <a href="https://carousselreact.netlify.com/"><img src="https://imagizer.imageshack.com/img923/604/BzsXH0.png" alt="Carousel Image" width="600"></a>
 </h1>
 
 <h4 align="center">Criei esse componente com o objetivo de treinar a criação de componentes em react.</h4>
